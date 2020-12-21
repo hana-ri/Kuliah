@@ -1,3 +1,3 @@
-# Kuliah
-Tugas
-Password order dengan bantuan file header Algorithm
+# Tugas  Projek Password Order
+
+Digunakan untuk membuat wordlist(susunan kata sandi yang mungkin).
